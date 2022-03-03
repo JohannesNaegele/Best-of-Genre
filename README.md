@@ -28,7 +28,7 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |Impressionismus|Debussy|Children’s Corner|Alborada del gracioso|
 |Indie|?|?|The sense of me|
 |Jazz|Gary Burton|Modern Flows, Vol. 2|The Grid|
-|Klassik|Jedenfalls nicht Haydn|?|?|
+|Klassik|Jedenfalls nicht Haydn|?|Klavierkonzert Nr. 23 in A-Dur (Mozart)|
 |Klassische Moderne|Schostakowitsch|Schostakowitsch 10|Schostakowitsch 8, 3. Satz|
 |Latin|Arturo Sandoval|This Is Afro-Cuban Funk|Bésame Mama (Poncho Sanchez)|
 |  Metal 	|  Dream Theater 	|   New Levels New Devils	|   Meathook	|
