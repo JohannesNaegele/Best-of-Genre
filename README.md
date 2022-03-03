@@ -1,7 +1,7 @@
 # Best-of-Genre
 A definite and highly objective ranking of music.
 
-# Overview
+## Overview
 Question marks (?) indicate sometimes the lack of fitting works or uncertainty but usually laziness or ignorance towards the respective genre.
 
 |  Genre 	|   Künstler	|  Album 	|   Song	|
