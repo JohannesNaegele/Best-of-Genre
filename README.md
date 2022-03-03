@@ -2,12 +2,17 @@
 A definite and highly objective ranking of music.
 
 # Overview
-Question marks (?) indicate sometimes the lack of fitting works or uncertainty but usually ignorance towards the respective genre.
+Question marks (?) indicate sometimes the lack of fitting works or uncertainty but usually laziness or ignorance towards the respective genre.
 
 |  Genre 	|   Künstler	|  Album 	|   Song	|
 |---	|---	|---	|---	|
+|A capella (deutsch)|Wise Guys|Frei|Sonnencremeküsse|
+|A capella (deutsch, aber für die Wise-Guys-Hater)|Maybebop|Es war nicht alles schlecht|Kabuff|
+|A capella (englisch)|Take 6|?|Chili Con Carne|
 |Barock|J.S. Bach|Weihnachtsoratorium|?|
 |Blues|?|?|?|
+|Country|?|Fuckt mich eigentlich immer ab|?|
+|Chanson|?|?|?|
 |  Dancehall 	|   Seeed	|   SEEED	|   Deine Zeit	|
 |Deutschrap|Dendemann|Leben am Limit|Nullkommaneun|
 |Elektroswing|Caravan Palace|Rookie EP|All Night|
@@ -15,6 +20,7 @@ Question marks (?) indicate sometimes the lack of fitting works or uncertainty b
 |  Dubstep 	|  Teminite 	|  Raise The Black Flag 	|  Beastmode 	|
 |Frühromantik|Schubert|?|Forellenquintett|
 |  Funk 	|  Vulfpeck 	|  Baritone Sessions Vol. 2 	|   Thriller (Dirty Loops & Cory Wong)	|
+|Goa|?|?|?|
 |Hip-Hop|A Tribe Called Quest|Circles (Deluxe)|Rapper's Delight|
 |Hochromantik|Tschaikowsky|Ètudes Op. 39|?|
 |House|FISHER|?|This Groove|
@@ -26,8 +32,17 @@ Question marks (?) indicate sometimes the lack of fitting works or uncertainty b
 |Latin|Arturo Sandoval|This Is Afro-Cuban Funk|Bésame Mama (Poncho Sanchez)|
 |  Metal 	|  Dream Theater 	|   New Levels New Devils	|   Meathook	|
 |Minimal Music| Philip Glass| Philip Glass Violinkonzert|Nagoya Marimba|
+|NDW|Falco|Junge Roemer|Jeanny|
 |Neuromantik|Bruckner|Bruckner 6|Bruckner 8, 6. Satz|
+|Oper|Puccini|Tosca|Tosca Finale 1. Act (Tre sbirri)|
+|Operette|?|?|?|
 |Pop|Michael Jackson|21|Uptown Girl|
 |  Punk 	|  ? 	|   ?	|   ?	|
+|Ragtime|Joplin|?|Maple Leaf Rag|
+|Renaissance|?|?|?|
 |Rock|Red Hot Chili Peppers|?|Falling In Between|
-|||||
+|R&B|D’Angelo|Maxwell's Urban Hang Suite|Carried Away|
+|Schlager|Peter Alexander|?|Zuschau'n kann i net|
+|Soul|Stevie Wonder|Songs in the Key of Life|It's A Shame|
+|Tango|Piazolla|?|?|
+|Uncategorized (Bonus)|Jacob Collier|?|All Night Long (Jacob Collier)|
