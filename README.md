@@ -26,7 +26,7 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |Hochromantik|Tschaikowsky|Ètudes Op. 39|?|
 |House|FISHER|?|This Groove|
 |Impressionismus|Debussy|Children’s Corner|Alborada del gracioso|
-|Indie|?|?|The sense of me|
+|Indie-Rock|?|?|The sense of me|
 |Jazz|Jesus Molina|Modern Flows, Vol. 2|The Grid|
 |Klassik|Jedenfalls nicht Haydn|?|Klavierkonzert Nr. 23 in A-Dur (Mozart)|
 |Klassische Moderne|Schostakowitsch|Schostakowitsch 10|Schostakowitsch 8, 3. Satz|
