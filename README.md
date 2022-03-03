@@ -45,5 +45,5 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |R&B|D’Angelo|Maxwell's Urban Hang Suite|Carried Away|
 |Schlager|Peter Alexander|?|Zuschau'n kann i net|
 |Soul|Stevie Wonder|Songs in the Key of Life|It's A Shame|
-|Tango|Piazzolla|?|?|
+|Tango|Piazzolla|?|Ist meistens eine Frage der Interpretation|
 |Uncategorized (Bonus)|Jacob Collier|Djesse Vol. 1|All Night Long (Jacob Collier)|
