@@ -18,6 +18,7 @@ Question marks (?) indicate sometimes the lack of fitting works or uncertainty b
 |Elektroswing|Caravan Palace|Rookie EP|All Night|
 |Expressionismus|?|?|Le Poème de l’Extase|
 |  Dubstep 	|  Teminite 	|  Raise The Black Flag 	|  Beastmode 	|
+|Filmmusik|John Williams|Works II (Joe Hisaishi)|Open the Door (Ludwig Göransson)|
 |Frühromantik|Schubert|?|Forellenquintett|
 |  Funk 	|  Vulfpeck 	|  Baritone Sessions Vol. 2 	|   Thriller (Dirty Loops & Cory Wong)	|
 |Goa|?|?|?|
@@ -35,7 +36,7 @@ Question marks (?) indicate sometimes the lack of fitting works or uncertainty b
 |NDW|Falco|Junge Roemer|Jeanny|
 |Neuromantik|Bruckner|Bruckner 6|Bruckner 8, 6. Satz|
 |Oper|Puccini|Tosca|Tosca Finale 1. Act (Tre sbirri)|
-|Operette|?|?|?|
+|Operette|?|Die Fledermaus|Lippen schweigen|
 |Pop|Michael Jackson|21|Uptown Girl|
 |  Punk 	|  ? 	|   ?	|   ?	|
 |Ragtime|Joplin|?|Maple Leaf Rag|
