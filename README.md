@@ -27,7 +27,7 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |House|FISHER|?|This Groove|
 |Impressionismus|Debussy|Children’s Corner|Alborada del gracioso|
 |Indie|?|?|The sense of me|
-|Jazz|Gary Burton|Modern Flows, Vol. 2|The Grid|
+|Jazz|Jesus Molina|Modern Flows, Vol. 2|The Grid|
 |Klassik|Jedenfalls nicht Haydn|?|Klavierkonzert Nr. 23 in A-Dur (Mozart)|
 |Klassische Moderne|Schostakowitsch|Schostakowitsch 10|Schostakowitsch 8, 3. Satz|
 |Latin|Arturo Sandoval|This Is Afro-Cuban Funk|Bésame Mama (Poncho Sanchez)|
@@ -45,5 +45,5 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |R&B|D’Angelo|Maxwell's Urban Hang Suite|Carried Away|
 |Schlager|Peter Alexander|?|Zuschau'n kann i net|
 |Soul|Stevie Wonder|Songs in the Key of Life|It's A Shame|
-|Tango|Piazzolla|?|Ist meistens eine Frage der Interpretation|
+|Tango|Piazzolla|Astor Piazzolla Reunion: A Tango Excursion|Ist hauptsächlich eine Frage der Interpretation|
 |Uncategorized (Bonus)|Jacob Collier|Djesse Vol. 1|All Night Long (Jacob Collier)|
