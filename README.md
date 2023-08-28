@@ -34,7 +34,7 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |  Metal 	|  Dream Theater 	|   New Levels New Devils	|   Meathook	|
 |Minimal Music| Philip Glass| Philip Glass Violinkonzert|Nagoya Marimba|
 |NDW|Falco|Junge Roemer|Jeanny|
-|Neuromantik|Bruckner|Bruckner 6|Bruckner 8, 6. Satz|
+|Neuromantik|Bruckner|Bruckner 6|Bruckner 8, 4. Satz|
 |Oper|Puccini|Tosca|Tosca Finale 1. Act (Tre sbirri)|
 |Operette|?|Die Fledermaus|Lippen schweigen|
 |Pop|Michael Jackson|21|Uptown Girl|
