@@ -70,3 +70,8 @@ Ganz gut sind auch:
 - Reacher
 - The Residence
 - Broadchurch S1
+- The Witcher S1 und S2
+- Mindhunter S1
+- Only Murders in the Building S1
+- Phineas und Ferb
+- Kaos
