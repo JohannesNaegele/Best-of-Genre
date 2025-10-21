@@ -59,9 +59,14 @@ Hier noch einige moderne Serien, die ich sehr gut finde:
 - The White Lotus S1
 - Dopesick
 - The Mentalist
+- Die Discounter
+- Good Omens
+- Sherlock
 
 Ganz gut sind auch:
 - The Bear S1
 - Loki
 - The Mandalorian
 - Reacher
+- The Residence
+- Broadchurch S1
