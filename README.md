@@ -47,3 +47,21 @@ This ranking informs you about the best artist/album/song from each category. Qu
 |Soul|Stevie Wonder|Songs in the Key of Life|It's A Shame|
 |Tango|Piazzolla|Astor Piazzolla Reunion: A Tango Excursion|Ist hauptsächlich eine Frage der Interpretation|
 |Uncategorized (Bonus)|Jacob Collier|Djesse Vol. 1|All Night Long (Jacob Collier)|
+
+## Addendum
+Hier noch einige moderne Serien, die ich sehr gut finde:
+- Andor
+- Shogun
+- Lucifer
+- Castle
+- Game of Thrones
+- The Boys
+- The White Lotus S1
+- Dopesick
+- The Mentalist
+
+Ganz gut sind auch:
+- The Bear S1
+- Loki
+- The Mandalorian
+- Reacher
